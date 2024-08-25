@@ -67,8 +67,7 @@ Copy code
 - ### Tailwind CSS
 - ### Axios
 
-
-
+```
 streamflix/
 │
 ├── public/
@@ -87,3 +86,4 @@ streamflix/
 ├── README.md
 ├── package.json
 └── server.js
+```
